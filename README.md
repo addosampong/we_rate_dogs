@@ -1,6 +1,4 @@
-# Udacity Data Analytics Nanodegree Project 2
-
-## Data Wrangling (WeRateDogs)
+# Data Wrangling (WeRateDogs)
 
 This data wrangling and exploratory data analysis project is one of the projects in the Udacity Data Analytics Nanodegree course.
 It is a an intermediate data wrangling project aimed at gathering, cleaning (wrangling), analysing and visualizing the [WeRateDogs](https://en.wikipedia.org/wiki/WeRateDogs) dataset to gain some insights, and also present those insights graphically.
